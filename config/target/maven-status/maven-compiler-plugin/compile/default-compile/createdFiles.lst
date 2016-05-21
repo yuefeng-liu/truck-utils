@@ -1,0 +1,14 @@
+com\truck\utils\config\MapperScannerConfiguration.class
+com\truck\utils\config\CacheConfiguration.class
+com\truck\utils\config\MessageSenderRegistrar.class
+com\truck\utils\config\annotation\EnableRedisConfiguration.class
+com\truck\utils\config\Queue.class
+com\truck\utils\config\MyBatisConfiguration.class
+com\truck\utils\config\BeansConfiguration.class
+com\truck\utils\config\DataSourceConfiguration.class
+com\truck\utils\config\annotation\EnableJMS.class
+com\truck\utils\config\MessageSender.class
+com\truck\utils\config\CacheConfiguration$RedisCacheConfiguration.class
+com\truck\utils\config\annotation\EnableJMSSender.class
+com\truck\utils\config\annotation\EnableDataSourceConfiguration.class
+com\truck\utils\config\JMSConfiguration.class

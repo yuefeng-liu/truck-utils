@@ -1,0 +1,13 @@
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\annotation\EnableDataSourceConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\BeansConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\MapperScannerConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\MessageSenderRegistrar.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\MessageSender.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\DataSourceConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\Queue.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\annotation\EnableRedisConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\JMSConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\MyBatisConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\annotation\EnableJMSSender.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\CacheConfiguration.java
+D:\workspace\idea14\itruck\truck-utils\config\src\main\java\com\truck\utils\config\annotation\EnableJMS.java

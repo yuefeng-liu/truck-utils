@@ -1,0 +1,14 @@
+com\truck\common\utils\generator\Generator.class
+com\truck\common\utils\events\RedisEvent$Channels.class
+com\truck\common\utils\mybatis\IgnoreColumnsPlugin.class
+com\truck\common\utils\lang\SpringContextHolder.class
+com\truck\common\utils\lang\JsonMapper.class
+com\truck\common\utils\mybatis\PageRequest.class
+com\truck\common\utils\lang\DateUtils.class
+com\truck\common\utils\lang\StringUtils.class
+com\truck\common\utils\events\RedisEvent$Source.class
+com\truck\common\utils\events\RedisEvent.class
+com\truck\common\utils\lang\Collections3.class
+com\truck\common\utils\mybatis\LogicGeneratorPlugin.class
+com\truck\common\utils\mybatis\SimpleIgnoreColumnsPlugin.class
+com\truck\common\utils\lang\Encodes.class
